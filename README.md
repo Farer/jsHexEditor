@@ -1,6 +1,6 @@
 # jsHexEditor
 
-## REAL SAMPLE
+## 적용 사례 ( REAL SAMPLE )
 ![Image of sample](https://github.com/Farer/jsHexEditor/blob/main/sample.png)
 
 
